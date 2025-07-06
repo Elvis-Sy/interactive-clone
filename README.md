@@ -68,7 +68,7 @@ git branch -d ma-page/fonctionnalite
 
 ## Contenus
 
-- [`INFORMATIONS.md`](./INFROMATIONS.md) : Tout ce qu'il y a à savoir sur les informations du projet
+- [`INFORMATIONS.md`](./INFORMATIONS.md) : Tout ce qu'il y a à savoir sur les informations du projet
 - [`COLORS.md`](./COLORS.md) : Les principales couleurs utilisées dans le site
 
 ---
