@@ -24,10 +24,10 @@ Ce document décrit les couleurs principales utilisées dans l’interface. Il s
 
 ---
 
-## 🔴 3. Red carpet (warn)
+## 🔴 3. Rouge carpet (carpet)
 
 - **Code HEX** : `#ff4c4c`
 - **Usage** :
   - Arrière-plan secondaire
   - Puces / marqueurs de liste
-- **Classe Tailwind** : `-warn`
+- **Classe Tailwind** : `-carpet`
