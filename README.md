@@ -71,3 +71,11 @@ git branch -d ma-page/fonctionnalite
 - [`INFORMATIONS.md`](./INFROMATIONS.md) : Tout ce qu'il y a à savoir sur les informations du projet
 - [`COLORS.md`](./COLORS.md) : Les principales couleurs utilisées dans le site
 
+---
+
+⚠️ Veuillez ne pas travailler directement sur `main`.
+
+✅ Branche principale de développement : `dev`
+
+Merci de créer vos branches à partir de `dev`.
+
